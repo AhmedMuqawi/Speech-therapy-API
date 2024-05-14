@@ -1,0 +1,297 @@
+{
+    "level_1": {
+        "1": "Dog",
+        "2": "Cat",
+        "3": "Dolphin",
+        "4": "Cow",
+        "5": "Monkey",
+        "6": "Wolf",
+        "7": "Lion",
+        "8": "Tiger",
+        "9": "Horse",
+        "10": "Duck",
+        "11": "Gorilla",
+        "12": "Elephant",
+        "13": "Sheep"
+    },
+    "level_2": {
+        "1": [
+            "Circle",
+            "I am a circle I have no sides like a wheel"
+        ],
+        "2": [
+            "Triangle",
+            "I am a triangle I have three sides like a sandwich"
+        ],
+        "3": [
+            "Square",
+            "I am a square I have four equal sides, like a tile"
+        ],
+        "4": [
+            "Rectangle",
+            "I am a rectangle I have four sides"
+        ],
+        "5": [
+            "Pentagon",
+            "I am a pentagon I have five sides"
+        ],
+        "6": [
+            "Hexagon",
+            "I am a hexagon I have six sides"
+        ],
+        "7": [
+            "Octagon",
+            "I am an octagon I have eight sides"
+        ],
+        "8": [
+            "Star",
+            "I am a star I am a twinkle shape"
+        ],
+        "9": [
+            "Heart",
+            "I am a heart I am a lovely shape"
+        ],
+        "10": [
+            "Diamond",
+            "I am a diamond I am a perfect shape"
+        ]
+    },
+    "advanced": {
+        "0": {
+            "ar": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ",
+            "en": "In the name of Allah, the Gracious, the Merciful"
+        },
+        "1": {
+            "name_ar": "الناس",
+            "name_en": "An-Nas",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 6,
+            "ar": [
+                "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+                "مَلِكِ ٱلنَّاسِ",
+                "إِلَـٰهِ ٱلنَّاسِ",
+                "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+                "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+                "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+            ],
+            "en": [
+                "Say, “I seek refuge in the Lord of mankind",
+                "The King of mankind",
+                "The God of mankind",
+                "From the evil of the sneaky whisperer",
+                "Who whispers into the hearts of people",
+                "From among jinn and among people”"
+            ]
+        },
+        "2": {
+            "name_ar": "الفلق",
+            "name_en": "Al-Falaq",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 5,
+            "ar": [
+                "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+                "مِن شَرِّ مَا خَلَقَ",
+                "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+                "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+                "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+            ],
+            "en": [
+                "Say, “I take refuge with the Lord of Daybreak",
+                "From the evil of what He created",
+                "And from the evil of the darkness as it gathers",
+                "And from the evil of those who practice sorcery",
+                "And from the evil of an envious when he envies”"
+            ]
+        },
+        "3": {
+            "name_ar": "الاخلاص",
+            "name_en": "Al-Ikhlas",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 4,
+            "ar": [
+                "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+                "ٱللَّهُ ٱلصَّمَدُ",
+                "لَمْ يَلِدْ وَلَمْ يُولَدْ ",
+                "وَلَمْ يَكُن لَّهۥ كُفُوًا أَحَدٌ"
+            ],
+            "en": [
+                "Say, “He is Allah, the One",
+                "Allah, the Absolute",
+                "He begets not, nor was He begotten",
+                "And there is none comparable to Him”"
+            ]
+        },
+        "4": {
+            "name_ar": "المسد",
+            "name_en": "Al-Masad",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 5,
+            "ar": [
+                "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+                "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+                "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+                "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+                "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍ"
+            ],
+            "en": [
+                "Condemned are the hands of Abee Lahab, and he is condemned",
+                "His wealth did not avail him, nor did what he acquired",
+                "He will burn in a Flaming Fire",
+                "And his wife—the firewood carrier",
+                "Around her neck is a rope of thorns"
+            ]
+        },
+        "5": {
+            "name_ar": "النصر",
+            "name_en": "An-Nasr",
+            "type": "مدنية",
+            "type_en": "Medinan",
+            "Ayahs": 3,
+            "ar": [
+                "إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+                "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+                "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًا"
+            ],
+            "en": [
+                "When there comes Allah’s victory, and conquest",
+                "And you see the people entering Allah’s religion in multitudes",
+                "Then celebrate the praise of your Lord, and seek His forgiveness. He is the Accepter of Repentance"
+            ]
+        },
+        "6": {
+            "name_ar": "الكافرون",
+            "name_en": "Al-Kafirun",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 6,
+            "ar": [
+                "قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+                "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+                "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+                "وَلَآ أَنَا عَابِدٌ مَّا عَبَدتُّمْ",
+                "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+                "لَكُمْ دِينُكُمْ وَلِىَ دِينِ"
+            ],
+            "en": [
+                "Say, “O disbelievers",
+                "I do not worship what you worship",
+                "Nor do you worship what I worship",
+                "Nor do I serve what you serve",
+                "Nor do you serve what I serve",
+                "You have your way, and I have my way”"
+            ]
+        },
+        "7": {
+            "name_ar": "الكوثر",
+            "name_en": "Al-Kawthar",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 3,
+            "ar": [
+                "إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+                "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+                "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+            ],
+            "en": [
+                "We have given you plenty",
+                "So pray to your Lord and sacrifice",
+                "He who hates you is the loser"
+            ]
+        },
+        "8": {
+            "name_ar": "الماعون",
+            "name_en": "Al-Ma'un",
+            "type": "مكية",
+            "type_en": "Meccan",
+            "Ayahs": 7,
+            "ar": [
+                "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+                "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+                "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+                "فَوَيْلٌ لِّلْمُصَلِّينَ",
+                "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+                "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+                "وَيَمْنَعُونَ ٱلْمَاعُونَ"
+            ],
+            "en": [
+                "Have you considered him who denies the religion?",
+                "It is he who mistreats the orphan",
+                "And does not encourage the feeding of the poor",
+                "So woe to those who pray",
+                "Those who are heedless of their prayers",
+                "Those who put on the appearance",
+                "And withhold the assistance"
+            ]
+        }
+    },
+    "advanced_validation": {
+        "1": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "قل اعوذ برب الناس",
+            "2": "ملك الناس",
+            "3": "اله الناس",
+            "4": "من شر الوسواس الخناس",
+            "5": "الذي يوسوس في صدور الناس",
+            "6": "من الجنه والناس"
+        },
+        "2": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "قل اعوذ برب الفلق",
+            "2": "من شر ما خلق",
+            "3": "ومن شر غاسق اذا وقب",
+            "4": "ومن شر النفاثات في العقد",
+            "5": "ومن شر حاسد اذا حسد"
+        },
+        "3": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "قل هو الله احد",
+            "2": "الله الصمد",
+            "3": "لم يلد ولم يولد",
+            "4": "ولم يكن له كفوا احد"
+        },
+        "4": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "تبت يدا ابي لهب وتب",
+            "2": "ما اغنى عنه ماله وما كسب",
+            "3": "سيصلي نارا ذات لهب",
+            "4": "وامراته حماله الحطب",
+            "5": "في جيدها حبل من مسد"
+        },
+        "5": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "اذا جاء نصر الله والفتح",
+            "2": "ورايت الناس يدخلون في دين الله افواجا",
+            "3": "فسبح بحمد ربك واستغفره",
+            "4": "انه كان توابا"
+        },
+        "6": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "قل يا ايها الكافرون",
+            "2": "لا اعبد ما تعبدون",
+            "3": "ولا انتم عابدون ما اعبد",
+            "4": "ولا انا عابد ما عبدتم",
+            "5": "ولا انتم عابدون ما اعبد",
+            "6": "لكم دينكم ولي دين"
+        },
+        "7": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "انا اعطيناك الكوثر",
+            "2": "فصل لربك وانحر",
+            "3": "ان شانئك هو الابتر"
+        },
+        "8": {
+            "0": "بسم الله الرحمن الرحيم",
+            "1": "ارايت الذي يكذب بالدين",
+            "2": "فذلك الذي يدع اليتيم",
+            "3": "ولا يحض على طعام المسكين",
+            "4": "فويل للمصلين",
+            "5": "الذين هم عن صلاتهم ساهون",
+            "6": "الذين هم يراءون",
+            "7": "ويمنعون الماعون"
+        }
+    }
+}

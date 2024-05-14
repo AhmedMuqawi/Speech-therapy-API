@@ -1,0 +1,29 @@
+{
+    "level_1" : {
+        "Dog" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791373/Photos/p8m0k4smndmvg1atruyx.jpg",
+        "Cat" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791364/Photos/tdcx17yc1rmgoncvmmsm.jpg",
+        "Dolphin" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791123/Photos/ixzezfnez6qkyrnmurno.jpg",
+        "Cow" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791133/Photos/ifz6zicnb65emknjigsy.jpg",
+        "Monkey" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791151/Photos/cdgnjlekym4lga6pxmnb.jpg",
+        "Wolf" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791114/Photos/b1bma9brznsahzmoapab.jpg",
+        "Lion" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791124/Photos/oishhzyyjf7allunrtj8.jpg",
+        "Tiger" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791153/Photos/c1vtbvlbgwabk9nympc1.jpg",
+        "Horse" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791160/Photos/sizlhgki8dkoedz85nzq.jpg",
+        "Duck" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791190/Photos/befbhm2klmps6jhwbrdp.jpg",
+        "Gorilla" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791153/Photos/vhs7irrgmrvcdlhpvy8j.jpg",
+        "Elephant" : "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791181/Photos/dlciwqyqfz0vtiwxi6q5.jpg",
+        "Sheep": "https://res.cloudinary.com/dkeeazjre/image/upload/v1713791124/Photos/yvnglvuihvdhqao7mnsj.jpg"
+    },
+    "level_2" :{
+        "Circle":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790317/Photos/l2pwwownjuxsv7ejsckz.jpg",
+        "Triangle":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790318/Photos/qnqrnfjyyqejfzv62cnw.jpg",
+        "Square":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790315/Photos/adno7cgtqzhdjru0id7a.jpg",
+        "Rectangle":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790318/Photos/gkovskgypfdjcmzwdb5n.jpg",
+        "Pentagon":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790316/Photos/aqjahlfy1bkz1b06shjd.jpg",
+        "Hexagon":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790316/Photos/v2jz5xclsiqt75ae7urd.jpg",
+        "Octagon":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790318/Photos/asaksp4dny52mduk6hfs.jpg",
+        "Star":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790316/Photos/ze06y37sgxwvzeulwgbl.jpg",
+        "Heart":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790318/Photos/rzcf33sjey6pg40naiyw.jpg",
+        "Diamond":"https://res.cloudinary.com/dkeeazjre/image/upload/v1711790316/Photos/hktq51y4eervztegjaxa.jpg"
+    }
+}

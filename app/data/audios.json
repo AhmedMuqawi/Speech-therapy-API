@@ -1,0 +1,89 @@
+{
+    "level_1": {
+        "Dog": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/pma1lgryvhunjlmlm9ln.mp3",
+        "Cat": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/rguw5tew0asprtwlupf3.mp3",
+        "Dolphin": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/jbabpf0r97ggbldxh7i8.mp3",
+        "Cow": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/fv78qzgwrkck8mspdjq2.mp3",
+        "Monkey": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/jikri0fhx6ara4apgki0.mp3",
+        "Wolf": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097561/records/level1/m6ozfszbbj5zrlhy6nmo.mp3",
+        "Lion": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/icktmlr2vths5blh5vba.mp3",
+        "Tiger": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/oarutxpykwt6pilbcem7.mp3",
+        "Horse": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/hxkpiuiyck8n07fpidns.mp3",
+        "Duck": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/jhxsqdcratkrpwy4nkup.mp3",
+        "Gorilla": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/it2ghjcsvgdupqrglrvx.mp3",
+        "Elephant": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/emihhnj7rwwn6tp8enn7.mp3",
+        "Sheep": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711097560/records/level1/cevyb9vd5mtc7coq21fl.mp3"
+    },
+    "level_2": {
+        "Circle": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795645/records/level2/nl4p2wjflplx3drhjfvp.mp3",
+        "Triangle": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795647/records/level2/bachhtkqmvslq0hnmicb.mp3",
+        "Square": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795646/records/level2/tgyarf5ttwpjssvkuhys.mp3",
+        "Rectangle": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795646/records/level2/oef76g6iwtucdfarxq4u.mp3",
+        "Pentagon": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795646/records/level2/qe7bwfb7qsz2dbqioqkl.mp3",
+        "Hexagon": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795645/records/level2/p3bgtifbjpengd1znton.mp3",
+        "Octagon": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795646/records/level2/afxj2xgmssd1buvtuflj.mp3",
+        "Star": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795646/records/level2/dfxih0iqxevdqfcqydgv.mp3",
+        "Heart": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795645/records/level2/gynxo5mmg40miwl8zeab.mp3",
+        "Diamond": "https://res.cloudinary.com/dkeeazjre/video/upload/v1711795646/records/level2/bti9aayjnhlsojhvcykf.mp3"
+    },
+    "advanced": {
+        "0": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134708/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/syhaibeuimqrsveoyxns.mp3"
+        },
+        "1": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134708/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/lzagwb4ucc7fd9edtgeo.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134710/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/kctezb9ouh6z1fw9rky2.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134708/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/irngklpv9mqy4o6va1e1.mp3",
+            "4": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134710/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/v4damud6ygwhjx4otpyn.mp3",
+            "5": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134708/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/y3imgfrcdqg4bxiyufwz.mp3",
+            "6": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712134711/records/level3/%D8%A7%D9%84%D9%86%D8%A7%D8%B3/g4hiubqyvh8piqqvycvm.mp3"
+        },
+        "2": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135079/records/level3/%D8%A7%D9%84%D9%81%D9%84%D9%82/goyzkgtkqbqqlfpe85kq.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135079/records/level3/%D8%A7%D9%84%D9%81%D9%84%D9%82/idlckppfmqvqywvo8ocv.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135083/records/level3/%D8%A7%D9%84%D9%81%D9%84%D9%82/zaczbqs0t2viufihjmbe.mp3",
+            "4": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135084/records/level3/%D8%A7%D9%84%D9%81%D9%84%D9%82/punsdlqfpoh0pzrvfulv.mp3",
+            "5": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135084/records/level3/%D8%A7%D9%84%D9%81%D9%84%D9%82/x11bt1nzt1tetvsluhap.mp3"
+        },
+        "3": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135282/records/level3/%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5/udnlgbl3ohzxtoqysp7e.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135281/records/level3/%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5/ncwoquqxpjuzxskgnvcm.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135283/records/level3/%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5/cbxd5b1mx97azv0hdipw.mp3",
+            "4": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135282/records/level3/%D8%A7%D9%84%D8%A7%D8%AE%D9%84%D8%A7%D8%B5/bjiitdae3hp58fki7kdr.mp3"
+        },
+        "4": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135401/records/level3/%D8%A7%D9%84%D9%85%D8%B3%D8%AF/svllzh0jspcsc1bvrvru.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135401/records/level3/%D8%A7%D9%84%D9%85%D8%B3%D8%AF/es1dbcrsgxgecjgbodzg.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135398/records/level3/%D8%A7%D9%84%D9%85%D8%B3%D8%AF/hhsbgf6nh0v94d5bkygd.mp3",
+            "4": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135403/records/level3/%D8%A7%D9%84%D9%85%D8%B3%D8%AF/ofkoeibmfggwon4dyugd.mp3",
+            "5": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135398/records/level3/%D8%A7%D9%84%D9%85%D8%B3%D8%AF/wnf4vqgmpa2zfutbjixt.mp3"
+        },
+        "5": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135599/records/level3/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/flriblimzyhtngf9lqav.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135604/records/level3/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/yhixva5hqhys3blhckqy.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712135900/records/level3/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/i3sfvjaplamieszirlwx.mp3"
+        },
+        "6": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136090/records/level3/%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86/xzh8r97pfjm8zjvjqcwb.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136086/records/level3/%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86/ukzrnnq9f0gfllbice3p.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136081/records/level3/%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86/cm5xw4umhvuhkm1jn37k.mp3",
+            "4": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136087/records/level3/%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86/ngqxpu8u3btieohc8mux.mp3",
+            "5": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136079/records/level3/%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86/zr6pzbkvyxyijxeo3vdl.mp3",
+            "6": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136084/records/level3/%D8%A7%D9%84%D9%83%D8%A7%D9%81%D8%B1%D9%88%D9%86/zwjh94qybgdumo5as2wd.mp3"
+        },
+        "7": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136491/records/level3/%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1/ixnhwxexhjbhzwloyfsn.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136486/records/level3/%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1/uocfaxnexmljdpgngalt.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136487/records/level3/%D8%A7%D9%84%D9%83%D9%88%D8%AB%D8%B1/gwn5ipm8q7mtfprkmy9k.mp3"
+        },
+        "8": {
+            "1": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136662/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/pyfn0vyznmrv8swllpgb.mp3",
+            "2": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136659/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/ympi65j7epbednc1cimj.mp3",
+            "3": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136660/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/fjtxquujatvufhtdifka.mp3",
+            "4": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136656/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/bayprngpcifsevfpjpj2.mp3",
+            "5": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136665/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/b23nsqdfgt1ykqy3tbvy.mp3",
+            "6": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136663/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/psxbbjfsfkdn1aaqujon.mp3",
+            "7": "https://res.cloudinary.com/dkeeazjre/video/upload/v1712136654/records/level3/%D8%A7%D9%84%D9%85%D8%A7%D8%B9%D9%88%D9%86/ktnpkmbuqqtvntuw1dir.mp3"
+        }
+    }
+}
